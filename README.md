@@ -76,13 +76,13 @@ yarn build
 
 - or create a shortcut link
 
-  1. for window
+  1. for Windows
 
      > After the bundling, you can just click the run.bat to open the documents. The bat file is actually for window shortcut so that you can open from your desktop.
      > you can create a desktop shortcut by linking the run.bat or run.vbs file.
      > The run.vbs is to hide the command window when you click the shortchut from your desktop.
 
-  2. for mac
+  2. for Macos
      > make sure the project path in run.scpt file is corrent, defualt path is ~/Markdown-editor. you can change to your own clone path.
      > then save the run.scpt file as application file so that you can just double click it to open the editor.
 
